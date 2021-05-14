@@ -7,5 +7,9 @@ def main(name):
     print(name)
 
 
+def validate_rut(rut):
+    return True
+
+
 if __name__ == "__main__":
     main()
